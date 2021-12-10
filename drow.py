@@ -1,4 +1,4 @@
-    import cv2
+import cv2
 import os
 from tensorflow.keras.models import Sequential, load_model
 import numpy as np
